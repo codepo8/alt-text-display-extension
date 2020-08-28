@@ -1,0 +1,28 @@
+{
+  "name": "Alt Text Display",
+  "description": "Add a context menu to images to show their URL and alt text",
+  "version": "0.1",
+  "permissions": [
+    "contextMenus",
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "content_scripts": [ {
+    "matches": ["<all_urls>"],
+    "css": ["alt-text-display.css"],
+    "js": ["alt-text-display.js"]
+} ],
+  "browser_action": {
+    "default_title": "Add Alt Text Display to Image Context Menu"
+  },
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" 
+  },
+  "manifest_version": 2
+}

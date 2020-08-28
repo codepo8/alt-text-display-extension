@@ -1,0 +1,49 @@
+#alt-text-rollover-bookmark-swatch {
+  position: fixed;
+  background: yellow;
+  font-family: Sans-serif;
+  max-width: 250px;
+  overflow: scroll ;
+  top: 10px;
+  left: 10px;
+  font-size: 16px;
+  color:black;
+  box-shadow:3px 3px 20px #333;
+  border: 5px solid yellow;
+  opacity: 0.95;
+}
+.hidden {display: none;}
+#alt-text-rollover-bookmark-swatch h1 {
+  cursor: move;
+  font-size: 1em;
+  padding: .2em .5em;
+  background: grey;
+  margin: 0;
+  font-weight: normal;
+  position: relative;
+  text-shadow: none;
+  box-shadow: none;
+}
+#alt-text-rollover-bookmark-swatch:hover {
+  opacity: 1;
+}
+#alt-text-rollover-bookmark-swatch.error {
+  border: 5px solid firebrick;
+}
+
+#alt-text-rollover-bookmark-swatch button {
+  border: none;
+  font-size: 18px;
+  background: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  position: absolute;
+  top: 0;
+  right: 2px;
+  margin: 0 5px 0 0;
+  padding: 0;
+}
+#alt-text-rollover-bookmark-swatch button:hover {
+  color: yellow;
+  background: black;
+}
