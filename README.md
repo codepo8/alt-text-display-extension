@@ -2,7 +2,7 @@
 
 This is an extension that adds a menu item to the context menu on any image to display the source and the alternative text of the image. 
 
-![New menu item in the context menu on images](https://codepo8.github.io/alt-text-display-extension/alt-text-display.png)
+![New menu item in the context menu on images](https://codepo8.github.io/alt-text-display-extension/context-menu.png)
 
 When activated, you get a "sticky note" on the document that shows the source and the alternative text. You can move the sticky note by dragging the header and you can close it by clicking the "x".
 
