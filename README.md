@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Alt-Text Display extension for Chromium (Edge/Chrome)
 
-You can use the [editor on GitHub](https://github.com/codepo8/alt-text-display-extension/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an extension that adds a menu item to the context menu on any image to display the source and the alternative text of the image. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![New menu item in the context menu on images](alt-text-display.png)
 
-### Markdown
+When activated, you get a "sticky note" on the document that shows the source and the alternative text. You can move the sticky note by dragging the header and you can close it by clicking the "x".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Christian Heilmann's blog with the sticky note overlay](alt-text-display.png)
 
-```markdown
-Syntax highlighted code block
+## Support and questions
 
-# Header 1
-## Header 2
-### Header 3
+This is a beta build of this extension and I am planning to use the research attached to it to develop new features in the Chromium Developer Tools. 
 
-- Bulleted
-- List
+You can use it as-is now and contributions are welcome.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codepo8/alt-text-display-extension/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

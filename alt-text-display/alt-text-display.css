@@ -1,4 +1,6 @@
 #alt-text-rollover-bookmark-swatch {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #000;
   position: fixed;
   background: yellow;
   font-family: Sans-serif;
@@ -11,10 +13,12 @@
   box-shadow:3px 3px 20px #333;
   border: 5px solid yellow;
   opacity: 0.95;
+  z-index: 100;
 }
 .hidden {display: none;}
 #alt-text-rollover-bookmark-swatch h1 {
   cursor: move;
+  color: #fff;
   font-size: 1em;
   padding: .2em .5em;
   background: grey;
@@ -35,7 +39,7 @@
   border: none;
   font-size: 18px;
   background: transparent;
-  font-family: inherit;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: inherit;
   position: absolute;
   top: 0;
