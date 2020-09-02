@@ -8,6 +8,21 @@ When activated, you get a "sticky note" on the document that shows the source an
 
 ![Christian Heilmann's blog with the sticky note overlay](https://codepo8.github.io/alt-text-display-extension/alt-text-display.png)
 
+## Installing the extension
+
+Currently the extension is in review both at Microsoft and Google, but until that gets through, you can also install it locally:
+
+### Installing in Microsoft Edge
+
+1. Download and unpack the [zip of the extension code](https://codepo8.github.io/alt-text-display-extension/alt-text-display.zip).
+
+1. Open <a href="edge://extensions">edge://extensions</a> in your browser.
+
+1. Turn on developer mode on the bottom right:
+
+![Christian Heilmann's blog with the sticky note overlay](https://codepo8.github.io/alt-text-display-extension/edge-turn-on-devloper-mode.png)
+
+
 ### Support and questions
 
 This is a beta build of this extension and I am planning to use the research attached to it to develop new features in the Chromium Developer Tools. 
