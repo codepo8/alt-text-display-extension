@@ -14,6 +14,8 @@ Currently the extension is in review both at Microsoft and Google, but until tha
 
 ### Installing in Microsoft Edge
 
+You can [install alt-text-display from the Edge extension store](https://microsoftedge.microsoft.com/addons/detail/alt-text-display/ifckdcbddldhagbihbhhijioebgmnlfl?hl=en-GB). Alternatively, and if you want to alter the code, you can also follow these steps to install it locally:
+
 1. Download and unpack the [zip of the extension code](https://codepo8.github.io/alt-text-display-extension/alt-text-display.zip).
 
 1. Open [edge://extensions](edge://extensions) in your browser.
