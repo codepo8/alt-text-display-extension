@@ -10,7 +10,7 @@ When activated, you get a "sticky note" on the document that shows the source an
 
 ## Installing the extension
 
-Currently the extension is in review both at Microsoft and Google, but until that gets through, you can also install it locally:
+You can install the extension from the browser stores or locally. This allows you to play with the code and make changes. 
 
 ### Installing in Microsoft Edge
 
