@@ -42,6 +42,10 @@ You can [install alt-text-display from the Edge extension store](https://microso
 
     ![Loading an unpacked extension in Google Chrome](https://codepo8.github.io/alt-text-display-extension/chrome-load-unpacked.png)
 
+### Installing on Firefox
+
+The extension is available in the Mozilla Add-ons Marketplace and you [can install it from there](https://addons.mozilla.org/en-US/firefox/addon/alt-text-display/).
+
 ### Support and questions
 
 This is a beta build of this extension and I am planning to use the research attached to it to develop new features in the Chromium Developer Tools. 
